@@ -26,6 +26,8 @@ This repository contains a simple **Instagram clone** built using **HTML and CSS
 
 ## Screenshots
 
+![Instagram Clone UI](assets/UI.png)
+
 ## Contribution
 
 Contributions are welcome! If you have improvements or suggestions:
