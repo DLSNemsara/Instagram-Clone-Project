@@ -24,7 +24,7 @@ This repository contains a simple **Instagram clone** built using **HTML and CSS
    ```
 3. **Open `index.html` in a browser** to view the Instagram clone.
 
-## Screenshots
+## Project Preview
 
 ![Instagram Clone UI](assets/UI.png)
 
